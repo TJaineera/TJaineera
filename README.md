@@ -98,7 +98,6 @@ I’m a backend-focused engineer building scalable systems and integrating machi
 ---
 
 ## 📌 Highlights  
-- ⚡ Reduced ML training time by 30% on datasets with 50M+ rows  
 - 🔄 Built microservices handling 10K+ daily transactions  
 - 🚀 Automated CI/CD pipelines with Jenkins and Docker  
 - 🤖 Integrated ML models into Java backend services  
