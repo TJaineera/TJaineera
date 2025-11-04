@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Twinkle Jaineera</h1>
-<p align="center">
+<h1>👋 Hi, I'm Twinkle Jaineera</h1>
+<p>
   <strong>Full-Stack Developer | AI Infrastructure Engineer | Cloud-Native Systems</strong>
 </p>
 
@@ -95,7 +95,6 @@ I'm a Backend engineer who loves turning ideas into scalable, secure, and intell
 - 🧠 [Medium](https://medium.com/@twinklejaineera)  
 - 💻 [LeetCode](https://leetcode.com/TJaineera)  
 - 💼 [LinkedIn](https://linkedin.com/in/twinkleponnappa)  
-- ✉️ [Email](mailto:twinklejn004@gmail.com)
 
 ---
 
