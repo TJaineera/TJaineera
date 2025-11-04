@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Twinkle Jaineera  
 **Full-Stack Developer | AI Infrastructure Engineer | Cloud-Native Systems**
 
-I’m a backend-focused engineer building **scalable, secure, and intelligent systems** that bridge software engineering with machine learning.  
-With hands-on experience in **Java**, **Python**, and **cloud automation**, I design and deploy **AI-integrated microservices** that balance performance, safety, and explainability.  
-I’m also passionate about embedding **cybersecurity and responsible AI practices** into everything I build.
+I'm a Backend engineer who loves turining ideas into scalable, secure, and intelligent systems.  
+I speak fluent **Java, Python, and cloud**, and I’m all about making models and microservices get along.
+
+Every line of code carries a principle: **build fast, build safe, and build smart** — because security and responsibility aren’t optional in AI.
+
 
 ---
 
