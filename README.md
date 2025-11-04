@@ -1,14 +1,16 @@
 # 👋 Hi, I'm Twinkle Jaineera  
 **Full-Stack Developer | AI Infrastructure Engineer | Cloud-Native Systems**
 
-I’m a backend-focused engineer building scalable systems and integrating machine learning into real-world applications. With a strong foundation in Java and Python ecosystems, I work at the intersection of cloud engineering, ML deployment, and AI alignment. I’m also keenly interested in secure development and embedding cybersecurity practices into everything I build.
+I’m a backend-focused engineer building **scalable, secure, and intelligent systems** that bridge software engineering with machine learning.  
+With hands-on experience in **Java**, **Python**, and **cloud automation**, I design and deploy **AI-integrated microservices** that balance performance, safety, and explainability.  
+I’m also passionate about embedding **cybersecurity and responsible AI practices** into everything I build.
 
 ---
 
 ## 🚀 Current Focus
-- Building AI-integrated microservices using Spring Boot and Python  
-- Deploying ML pipelines on AWS (SageMaker, Bedrock)  
-- Exploring controllable AI, agent safety, and secure LLM-based systems  
+- Architecting **AI-integrated microservices** with Spring Boot and Python  
+- Deploying **ML pipelines** on AWS (SageMaker, Bedrock)  
+- Exploring **controllable AI**, agent safety, and secure LLM-based systems  
 
 ---
 
@@ -28,7 +30,7 @@ I’m a backend-focused engineer building scalable systems and integrating machi
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat&logo=apachespark&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat&logo=swagger&logoColor=white)
 
 ---
 
@@ -91,23 +93,22 @@ I’m a backend-focused engineer building scalable systems and integrating machi
 
 ---
 
-## 🌐 Online Profiles  
-- [Medium](https://medium.com/@your-username) — Writings on AI, systems, and software  
-- [LeetCode](https://leetcode.com/your-username) — DSA problem solving & practice
-
----
-
 ## 📌 Highlights  
-- 🔄 Built microservices handling 10K+ daily transactions  
-- 🚀 Automated CI/CD pipelines with Jenkins and Docker  
-- 🤖 Integrated ML models into Java backend services  
-- 🛡 Secured APIs with OAuth2, JWT, and SSL-based encryption  
-- 🧠 Experimenting with safe agent architectures using LLMs
+- ⚙️ Engineered microservices processing **10K+ daily transactions**  
+- 🚀 Automated **CI/CD pipelines** with Jenkins, Docker & Terraform  
+- 🤖 Integrated **ML models** into production Java services  
+- 🧠 Developed **AI explainability** modules using SHAP & LIME  
+- 🛡️ Secured APIs with OAuth2, JWT, and SSL-based encryption  
+- 🌩️ Designed **AWS pipelines** improving ML training by 30%  
 
 ---
 
-## 📫 Let's Connect  
-[LinkedIn](https://linkedin.com/in/twinkleponnappa)  
-[Email](mailto:twinklejn004@gmail.com)
+## 🌐 Online Profiles  
+- 🧠 [Medium](https://medium.com/@twinklejaineera) — AI, systems, and research writings  
+- 💻 [LeetCode](https://leetcode.com/TJaineera) — Problem-solving & algorithm practice  
+- 💼 [LinkedIn](https://linkedin.com/in/twinkleponnappa)  
+- ✉️ [Email](mailto:twinklejn004@gmail.com)
+
+---
 
 > _“The line between helpful and harmful in AI isn’t intelligence — it’s control.”_
