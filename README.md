@@ -1,75 +1,65 @@
-# 👋 Hi, I'm Twinkle N Jaineera
+# 👋 Hi, I'm Twinkle Jaineera  
+**Full-Stack Developer | AI Infrastructure Engineer | Cloud-Native Systems**
 
-🎯 Full Stack Developer | Cloud-Native Engineer | AI Infrastructure Enthusiast
-
-I build intelligent, scalable systems that bridge the worlds of backend engineering and AI/ML. With 4+ years of hands-on experience, I've deployed microservices handling 10K+ transactions daily, architected cloud pipelines for distributed ML training, and explored the edge of generative AI using AWS Bedrock and SageMaker.
-
----
-
-## 🔍 What I’m Working On
-- ⚙️ AI alignment & agent safety in LLM-based systems
-- 🧠 Building real-time ML pipelines on AWS/GCP
-- 🛠️ Exploring hybrid AI architectures (controllable AI + RL agents)
+I’m a backend-focused engineer building scalable systems and integrating machine learning into real-world applications. With a strong foundation in Java and Python ecosystems, I work at the intersection of cloud engineering, ML deployment, and AI alignment. I’m especially interested in how controllable and autonomous systems can be built safely and responsibly.
 
 ---
 
-## 🧠 Featured Blogs
-- [Controllable AI vs RL Agents — Why the Difference Matters](#)
-- [Do Language Models Develop a Survival Drive?](#)
-*More writing coming soon — stay tuned!*
+## 🚀 Current Focus
+- Building AI-integrated microservices using Spring Boot and Python  
+- Developing and deploying ML pipelines on AWS (SageMaker, Bedrock)  
+- Exploring AI alignment, agent safety, and control in LLM-based systems  
 
 ---
 
-## ⚙️ My Stack
+## 🛠️ Skills & Technologies
 
-**Languages & Backend**  
-![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java) 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) 
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333?style=flat&logo=spring)
-![Hibernate](https://img.shields.io/badge/-Hibernate-333?style=flat&logo=hibernate)
+### 💻 Languages  
+- **Java**, **Python**, **JavaScript**, **SQL**
 
-**Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazonaws) 
-![GCP](https://img.shields.io/badge/-GCP-333?style=flat&logo=googlecloud)  
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=flat&logo=kubernetes)  
-![Jenkins](https://img.shields.io/badge/-Jenkins-333?style=flat&logo=jenkins)  
+### 🧱 Backend & Architecture  
+- Spring Boot, Hibernate, FastAPI  
+- REST APIs, WebSockets, RabbitMQ, Kafka
 
-**Data & AI**  
-![SageMaker](https://img.shields.io/badge/-SageMaker-333?style=flat&logo=amazonaws)  
-![Bedrock](https://img.shields.io/badge/-AWS%20Bedrock-333?style=flat&logo=aws)  
-![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)  
+### 📊 Python & Machine Learning  
+- Pandas, NumPy, Scikit-learn  
+- Matplotlib, Seaborn, OpenCV, NLTK  
+- AWS SageMaker, Bedrock, Boto3  
+- Jupyter, ML model deployment (API-based)
 
-**Frontend (Supporting)**  
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat&logo=bootstrap)  
+### ☁️ Cloud & DevOps  
+- AWS (EC2, S3, Lambda, DynamoDB, SageMaker, Bedrock)  
+- Google Cloud Platform (GCP)  
+- Docker, Kubernetes, Jenkins, Git, GitHub Actions
 
----
+### 🗄️ Databases  
+- PostgreSQL, MongoDB, Redis, MySQL
 
-## 🚀 Highlights
-- ⏱ Reduced ML training time by 30% on 50M+ row datasets using optimized AWS pipelines  
-- 🧪 Deployed fault-tolerant Spring Boot microservices with 99.9% uptime  
-- ⚡ Automated CI/CD workflows using Jenkins, Docker, and Git — cut release cycles by 70%  
-- 🤝 Mentored junior devs, advised PMs, and delivered ML features with stakeholder collaboration  
+### 🌐 Frontend (Supporting)  
+- React.js, Bootstrap, HTML/CSS, JSP
+
+### 🧪 Testing & Automation  
+- JUnit, Mockito, REST Assured, Postman
 
 ---
 
-## 🧩 Projects & Experiments
-- `agent-safety-lab`: Explorations in RL reward alignment & safe shutdown  
-- `llm-orchestration`: Testing multi-agent LLM workflows with feedback loops  
-- `spring-ai-pipeline`: Hybrid Java microservice with embedded ML inference (SageMaker API)
+## 🌐 Online Profiles  
+- [Medium](https://medium.com/@your-username) — Writing on AI, systems, and software  
+- [LeetCode](https://leetcode.com/your-username) — Data structures, algorithms, problem solving
 
 ---
 
-## 📫 Connect With Me
-
-- 💼 [LinkedIn](https://linkedin.com/in/twinkleponnappa)  
-- ✉️ [twinklejn004@gmail.com](mailto:twinklejn004@gmail.com)  
-- 🌐 Portfolio/Blog: Coming soon...
+## 📌 Highlights  
+- ⚡ Reduced ML training time by 30% on datasets with 50M+ rows  
+- 🔄 Built microservices processing 10K+ daily transactions  
+- 🚀 Automated CI/CD pipelines using Docker, Jenkins, and Git  
+- 🤖 Integrated ML models into production-ready Spring Boot services  
+- 🧠 Experimenting with safe LLM-based agent architectures
 
 ---
 
-> “The line between helpful and harmful in AI isn’t intelligence — it’s control.”
+## 📫 Let's Connect  
+[LinkedIn](https://linkedin.com/in/twinkleponnappa)  
+[Email](mailto:twinklejn004@gmail.com)
 
+> _“The line between helpful and harmful in AI isn’t intelligence — it’s control.”_
