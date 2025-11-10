@@ -92,8 +92,8 @@ I'm a Backend engineer who loves turning ideas into scalable, secure, and intell
 ---
 
 ## 🌐 Online Profiles  
-- 🧠 [Medium](https://medium.com/@twinklejaineera)  
-- 💻 [LeetCode](https://leetcode.com/TJaineera)  
+- 🧠 [Medium](https://medium.com/@TJaineera)  
+- 💻 [LeetCode](https://leetcode.com/u/yM3JE5x7uF)  
 - 💼 [LinkedIn](https://linkedin.com/in/twinkleponnappa)  
 
 ---
