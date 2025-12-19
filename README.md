@@ -5,7 +5,7 @@
 
 ---
 
-I'm a Backend engineer who loves turning ideas into scalable, secure, and intelligent systems. I speak fluent **Java, Python, and Cloud**, and I’m all about making models and microservices get along. I’m also exploring **controllable AI**, **LLM agent alignment**, and the safe evolution of intelligent systems. Every line of code carries a principle: **build fast, build safe, and build smart** — because security and responsibility aren’t optional in AI.
+I'm an engineer who loves turning ideas into scalable, secure, and intelligent systems. I speak fluent **Java, Python, and Cloud**, and I’m all about making models and microservices get along. I’m also exploring **controllable AI**, **LLM agent alignment**, and the safe evolution of intelligent systems. Every line of code carries a principle: **build fast, build safe, and build smart** — because security and responsibility aren’t optional in AI. Everything in here is not perfect but it's a learning playground.
 
 ---
 
